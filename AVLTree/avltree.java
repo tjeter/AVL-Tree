@@ -3,8 +3,6 @@ import java.util.*;
 
 /**
  * @author Tre' Jeter
- * UF ID#: 1946-9876
- * Email: t.jeter@ufl.edu
  */
 public class avltree {
 
